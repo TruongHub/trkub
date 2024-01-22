@@ -15,7 +15,6 @@ local Window =
     }
 )
 local Tabs = {
-    Discord = Window:AddTab({Title = "Info", Icon = ""}),
     Main = Window:AddTab({Title = "Main", Icon = "home"}),
     Setting = Window:AddTab({Title = "Setting", Icon = "settings"}),
     Stats = Window:AddTab({Title = "Stats", Icon = "plus-circle"}),
